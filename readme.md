@@ -3,7 +3,7 @@
 Vo soy wn yera
 
 * Computer Engineering Student
-* Python / Lua / C / C++ 
+* Python / Lua / C / C++ / HTML 
 
 ### Founder and developer at [website](https://sosamafia.cl)
 
