@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome! 👋
 
 Hey there! I'm a passionate Computer Engineering student from 🇨🇱 with a love for coding and building cool stuff. 👨‍💻 Currently, I'm involved in some exciting projects:
 
