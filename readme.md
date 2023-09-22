@@ -1,18 +1,25 @@
-# Welcome! 👋
+# Welcome to My GitHub Profile! 👋
 
-Hey there! I'm a passionate Computer Engineering student from 🇨🇱 with a love for coding and building cool stuff. 👨‍💻 Currently, I'm involved in some exciting projects:
+Hey there! I'm a passionate Computer Engineering student from Chile 🇨🇱 with a love for coding and building cool stuff. 👨‍💻 Currently, I'm actively involved in some exciting projects:
 
-### 🚀 [OPEN] Currently Developing in Difamados PVP [Discord](https://discord.gg/difamadosrp)
+### 🚀 [Loud Roleplay](https://discord.gg/loudrp)
+- 👷‍♂️ Currently Developing
 
-### 🛠️ [OPEN] Also Working on Difamados RP [Discord](https://discord.gg/difamadosrp)
+### 🚀 [Difamados PVP](https://discord.gg/difamadospvp)
+- 👷‍♂️ Currently Developing
 
-### 🚧 [CLOSED] Founder and Developer at [Sosa Mafia](https://sosamafia.cl)
+### 🛠️ [Difamados RP](https://discord.gg/difamadosrp)
+- 👷‍♂️ Also worked on
 
-I am proud to have founded and contributed to Sosa Mafia RP, a project that's now closed. You can (not) still check out the website [here](https://sosamafia.cl) to see the work we accomplished together!
+### 🚧 [Sosa Mafia](https://sosamafia.cl)
+- 👷‍♂️ Founder and Developer (Project now closed)
 
-![JEKEKNLOJEKE](https://media.tenor.com/f1eoWVpHbaIAAAAd/loco-rene-rene-puente.gif)
+I'm particularly proud of my contributions to **Sosa Mafia RP**, a project that's no longer active. You can still check out the website [here](https://sosamafia.cl) to see the work we accomplished together!
 
-Feel free to reach out to me if you want to collaborate on any exciting projects or just to say hi! Let's connect and create something awesome together! 🤝
+![LOSJEKES](https://media.tenor.com/f1eoWVpHbaIAAAAd/loco-rene-rene-puente.gif)
+
+Feel free to reach out to me if you're interested in collaborating on exciting projects or just want to say hi! Let's connect and create something awesome together. 🤝
 
 ---
-*Note: Viva chile!*
+
+*Note: ñau! 🇨🇱*
