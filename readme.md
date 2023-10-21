@@ -5,7 +5,7 @@ Hey there! I'm a passionate Computer Engineering student from Chile 🇨🇱 wit
 ### 🚀 [Loud Roleplay](https://discord.gg/loudrp)
 - 👷‍♂️ Currently Developing
 
-### 🚀 [Difamados PVP](https://discord.gg/difamadospvp)
+### 🚀 [Troca PVP]([https://discord.gg/difamadospvp](https://discord.gg/trocapvp))
 - 👷‍♂️ Currently Developing
 
 ### 🛠️ [Difamados RP](https://discord.gg/difamadosrp)
