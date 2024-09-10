@@ -5,13 +5,14 @@ Hey there! I'm a passionate Computer Engineering student from Chile 🇨🇱 wit
 ### 🚀 [Loud Roleplay](https://discord.gg/loudrp)
 - 👷‍♂️ Currently Developing
 
-### 🚀 [Troca PVP]([https://discord.gg/difamadospvp](https://discord.gg/trocapvp))
+### 🚀 [Troca PVP](https://discord.gg/trocapvp)
 - 👷‍♂️ Currently Developing
 
 ### 🛠️ [Difamados RP](https://discord.gg/difamadosrp)
 - 👷‍♂️ Also worked on
 
-- - 
+---
+
 ### 🚧 [Radiant PVP](https://discord.gg/radiant-pvp-1213991174080176130)
 - 👷‍♂️ Founder and Developer (Project now closed)
 
