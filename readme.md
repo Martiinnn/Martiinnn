@@ -11,6 +11,10 @@ Hey there! I'm a passionate Computer Engineering student from Chile 🇨🇱 wit
 ### 🛠️ [Difamados RP](https://discord.gg/difamadosrp)
 - 👷‍♂️ Also worked on
 
+- - 
+### 🚧 [Radiant PVP](https://discord.gg/radiant-pvp-1213991174080176130)
+- 👷‍♂️ Founder and Developer (Project now closed)
+
 ### 🚧 [Sosa Mafia](https://sosamafia.cl)
 - 👷‍♂️ Founder and Developer (Project now closed)
 
