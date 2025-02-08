@@ -9,7 +9,7 @@ Currently, I'm actively involved in some exciting projects:
 ## 🚀 **Active Projects**
 
 ### [Loud Roleplay](https://discord.gg/loudrp)
-- **Role**: Developer  
+- **Role**: Owner & Developer  
 - **Status**: Actively Developing  
 
 ---
